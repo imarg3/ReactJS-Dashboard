@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing SignUp Compoenent should not return an error and should render correctly in "debug" mode 1`] = `ShallowWrapper {}`;
